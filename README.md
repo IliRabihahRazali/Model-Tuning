@@ -1,1 +1,1 @@
-# Model-Tuning
+I am excited to do this project because it kind of related on my current manufacturing work now, where machine maintenance prediction is very important to ensure the long undisruptive run and product quality.  However, in this case, we analyze the predictive parameter of green energy project, which is Wind Energy, and we need to determine the important factor for its maintenance using various of classification models, tune them and find the best model among them, and use the best model to build the pipeline.
